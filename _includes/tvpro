@@ -1,0 +1,1 @@
+<video poster="http://content2.sexforsure.com/{{include.key}}/Video.jpg" data-setup="{}" id="player0" class="video-js vjs-default-skin vjs-big-play-centered vjs-16-9" controls preload="auto"><source src="http://content2.sexforsure.com/{{include.key}}/Video.mp4" type='video/mp4'></video>
